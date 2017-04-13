@@ -1,0 +1,20 @@
+{
+  "name": "maven_study_notes",
+  "version": "0.0.1",
+  "description": "A personal study notes for Maven",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve docs",
+    "test": "echo \"tests no available\""
+  },
+  "keywords": [
+    "Maven",
+    "study",
+    "notes"
+  ],
+  "author": "CosmoX",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^3.3.1"
+  }
+}
